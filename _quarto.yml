@@ -8,7 +8,7 @@ project:
   #   python _extensions/coatless/quarto-org-index/fetch.py && quarto render
 
 website:
-  title: "Coatless R&D — Rcpp"
+  title: "Coatless Rcpp R&D"
   site-url: "https://rd-rcpp.thecoatlessprofessor.com/"
   description: "Rcpp prototypes and C++ explorations."
   page-footer:
